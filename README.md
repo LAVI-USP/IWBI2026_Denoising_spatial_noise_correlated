@@ -9,7 +9,7 @@ This repository contains the code and supplementary material associated with the
 
 The complete manuscript is available here:
 
-📄 **[Download Full Paper](paper/IWBI2026_FullPaper.pdf)**
+📄 **[Download Full Paper](IWBI2026_FullPaper.pdf)**
 
 ## Repository Contents
 
