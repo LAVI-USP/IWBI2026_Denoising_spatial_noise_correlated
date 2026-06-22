@@ -34,6 +34,10 @@ This repository will include:
 
 ## Contact
 
-Renann F. Brandão
-University of São Paulo (USP)
-São Carlos, Brazil
+For questions regarding the manuscript, code, or data, please contact:
+
+**Renann F. Brandão**
+University of São Paulo (USP), São Carlos, Brazil
+
+📧 **Email:** [renannbrandao@usp.br](mailto:renannbrandao@usp.br)
+
