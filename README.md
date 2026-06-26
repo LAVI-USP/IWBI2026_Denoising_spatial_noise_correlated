@@ -154,6 +154,8 @@ This work was developed at the **Laboratory of Applied Vision (LAVI)**, Universi
 
 The authors gratefully acknowledge **Hospital de Amor (Barretos, Brazil)** for providing the mammographic images used in this study.
 
+The authors gratefully acknowledge **Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)** for the financial support.
+
 ---
 
 # Contact
